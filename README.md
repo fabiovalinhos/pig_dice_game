@@ -1,2 +1,4 @@
 # pig_dice_game
-Pig game for training JavaScript
+Pig game for training JavaScript  
+
+Instructor : Jonas Schmedtmann (jonasschmedtmann)
