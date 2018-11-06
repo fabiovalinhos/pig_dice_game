@@ -3,7 +3,7 @@ Pig game for training JavaScript
 
 Instructor : Jonas Schmedtmann (jonasschmedtmann)
 
-Site:  https://fabiovalinhos.github.io/pig_dice_game/
+Demo site click [here](https://fabiovalinhos.github.io/pig_dice_game/)
 
 GAME RULES:
 
